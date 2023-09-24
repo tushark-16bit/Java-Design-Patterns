@@ -1,4 +1,4 @@
-package streategyPattern.classes.interfaces;
+package StrategyPattern.behaviorInterfaces;
 
 public interface QuackBehavior {
     void quack();

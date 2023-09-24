@@ -1,6 +1,6 @@
-package streategyPattern.classes.concreteClasses;
+package StrategyPattern.behaviorImplementations;
 
-import streategyPattern.classes.interfaces.QuackBehavior;
+import StrategyPattern.behaviorInterfaces.QuackBehavior;
 
 public class Squeek implements QuackBehavior {
     @Override

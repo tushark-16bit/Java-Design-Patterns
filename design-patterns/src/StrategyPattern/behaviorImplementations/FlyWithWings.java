@@ -1,6 +1,6 @@
-package streategyPattern.classes.concreteClasses;
+package StrategyPattern.behaviorImplementations;
 
-import streategyPattern.classes.interfaces.FlyBehavior;
+import StrategyPattern.behaviorInterfaces.FlyBehavior;
 
 public class FlyWithWings implements FlyBehavior {
     @Override

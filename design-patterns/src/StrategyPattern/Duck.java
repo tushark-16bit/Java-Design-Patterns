@@ -1,7 +1,7 @@
-package streategyPattern.classes;
+package StrategyPattern;
 
-import streategyPattern.classes.interfaces.FlyBehavior;
-import streategyPattern.classes.interfaces.QuackBehavior;
+import StrategyPattern.behaviorInterfaces.FlyBehavior;
+import StrategyPattern.behaviorInterfaces.QuackBehavior;
 
 public abstract class Duck {
     String name;

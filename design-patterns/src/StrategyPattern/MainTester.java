@@ -1,7 +1,7 @@
-package streategyPattern.classes;
+package StrategyPattern;
 
-import streategyPattern.classes.concreteClasses.FlyWithWings;
-import streategyPattern.classes.implementations.RubberDuck;
+import StrategyPattern.behaviorImplementations.FlyWithWings;
+import StrategyPattern.objectmIplementation.RubberDuck;
 
 /**
  * This is composition instead of inheritance, where you can change the behavior
