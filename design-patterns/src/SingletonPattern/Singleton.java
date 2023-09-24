@@ -22,4 +22,8 @@ public class Singleton {
         }
         return uniqueSingleton;
     }
+
+    // Singleton can be considered as an additional utility on a class that
+    // is responsible for some other behavior as well. It only guarantees
+    // single object instantiation of that class
 }

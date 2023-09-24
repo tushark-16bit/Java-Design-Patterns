@@ -1,0 +1,13 @@
+Use of Singleton Pattern:
+
+One and only one object of a class is created of a class.
+This is a utility behavior you add on top of existing behavior of a class.
+
+Common use cases:
+Thread pool, caches, dialog boxes, objects handling preferences, logging object
+
+Can be lazily initiated or early initiated.
+Has impacts as and how its initialization is made thread safe
+
+Impacts on java reflection, serialization, deserialization
+* Future research on above impact.
